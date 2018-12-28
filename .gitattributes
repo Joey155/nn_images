@@ -3,3 +3,7 @@ layer_activations* filter=lfs diff=lfs merge=lfs -text
 category_weights/* filter=lfs diff=lfs merge=lfs -text
 category_weights/ filter=lfs diff=lfs merge=lfs -text
 /content/nn_images/category_weights/ filter=lfs diff=lfs merge=lfs -text
+VGG19_caffe/layer_activations6.tar.gz filter=lfs diff=lfs merge=lfs -text
+VGG19_caffe/layer_activations7.tar.gz filter=lfs diff=lfs merge=lfs -text
+VGG19_caffe/layer_activations8.tar.gz filter=lfs diff=lfs merge=lfs -text
+VGG19_caffe/layer_activations5.tar.gz filter=lfs diff=lfs merge=lfs -text
